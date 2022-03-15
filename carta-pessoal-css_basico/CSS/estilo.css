@@ -1,0 +1,109 @@
+/*Limpando formatações*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.clear{
+	clear: both;
+}
+
+/*Formatações gerais*/
+
+body{
+	font-size: 1em;
+	background: e6e6e6;
+	font-family: arial, helvetica, sans-serif;
+}
+
+h2{
+	text-decoration: none;
+	font-size: 1.5em;
+	margin: 5px;
+	border-style: solid;
+	border-width: 1px 0;
+	border-color: whitesmoke;
+}
+
+/*Formatações id's*/
+
+#main-head{
+	background: #bbbbbb;
+	text-align: center;
+	padding: 5px;
+	font-size: 1.3em;
+}
+
+#head-left{
+	float: left;
+	width: 30%;
+	padding: 2px;
+	margin: 5px 0;
+}
+
+#head-right{
+	float: right;
+	width: 65%;
+	text-align: left;
+	padding: 2px;
+}
+
+#main-area{
+	width: 920px;
+	margin: 0 auto;
+}
+
+#area_content-left{
+	width: 600px;
+	font-size: 1.2em;
+	text-align: justify;
+	padding: 2px;
+	margin: 3px;
+	float: left;
+}
+
+#area_content-right{
+	width: 280px;
+	text-align: justify;
+	padding: 2px;
+	margin: 3px;
+	float: right;
+	background: #FFEB9B;
+}
+
+/*Formatação classes*/
+
+.titles{
+	font-size: 2.5em;
+	font-weight: bold;
+	background: #000;
+	color: white;
+	padding: 3px;
+}
+
+.sub-titles{
+	font-size: 1.5em;
+	margin: 5px;
+}
+
+.margin{
+	margin: 5px 0;
+}
+
+.blue{
+	color: blue;
+}
+
+.quote{
+	text-align: right;
+	font-size: 0.8em;
+}
+
+.text_content-left{
+	padding: 10px 0;
+}
+
+.text_content-right{
+	padding: 0 5px;
+}
