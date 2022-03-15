@@ -1,4 +1,4 @@
-# Curriculo_Git
+# Curriculo
 
 Curva de aprendizado no caminho de dev front-end:
 - Primeiro currículo usando html puro (disponível na postagem seguinte);
