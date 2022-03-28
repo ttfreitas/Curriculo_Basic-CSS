@@ -1,9 +1,6 @@
 # Curriculo
 
-Curva de aprendizado no caminho de dev front-end:
-- Primeiro currículo usando html puro (disponível na postagem seguinte);
-- Aquisição de conhecimentos de css básico;
-- Apresentação do resultado do novo currículo após executar os conhecimentos adquiridos em css.
+Apresentação do resultado do meu currículo após executar os conhecimentos adquiridos em HTML e CSS básico.
 
 Seguindo com os estudos para aprender css intermediário/avançado.
 
