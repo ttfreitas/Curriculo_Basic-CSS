@@ -7,4 +7,6 @@ Apresentação do resultado do meu currículo após executar os conhecimentos ad
 
 Seguindo com os estudos para aprender CSS intermediário/avançado.
 
+PS: O projeto com CSS foi upado primeiro e o de HTML puro foi upado após, já através dos comandos pelo Git Bash.
+
 Por hora, é isso!
